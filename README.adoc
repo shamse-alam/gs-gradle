@@ -43,7 +43,6 @@ include::initial/src/main/java/hello/HelloWorld.java[]
 include::initial/src/main/java/hello/Greeter.java[]
 ----
 
-
 [[initial]]
 == Install Gradle
 
